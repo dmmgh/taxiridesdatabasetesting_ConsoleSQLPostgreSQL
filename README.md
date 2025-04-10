@@ -1,6 +1,6 @@
-# Working with a database, its testing, of some taxi service (database of taxi rides), working with its logs, using the console to access a remote server, SQL
+# Working with a database of some taxi service (database of taxi rides), with its logs, using the console to access a remote server, SQL
 
-This testing project contains mastering the basics of working with the console (Cygwin console application), what the grep command is, getting a grasp of SQL, using PostgreSQL
+This project contains mastering the basics of working with the console (Cygwin console application), what the grep command is, getting a grasp of SQL, using PostgreSQL
 
 ## Table of contents
 
