@@ -32,7 +32,7 @@ This project contains mastering the basics of working with the console (Cygwin c
 
 This project leverages a variety of technologies and methodologies to achieve its goals:
 
-- **Git**: A distributed version control system
+- **Git**:  A distributed version control system
 
 ## Licence
 
